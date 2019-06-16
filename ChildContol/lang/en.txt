@@ -1,0 +1,50 @@
+Mo.
+Tu
+We
+Th
+Fr.
+Sa.
+Su
+Remove all
+Select all
+Save
+Back
+Applications
+In this list are time-limited program implementation.
+Add new program
+Remove from list
+Edit schedule
+Save changes
+Setting up the program schedule
+Check the time frame in which the program will be available to users.
+Applications
+Websites
+Settings
+Output
+Lock
+Settings
+Change the password?
+Type the old password
+Enter the new password
+Disable broadcast Web page with additional information at
+transition to blocked sites?
+Enable blocking software?
+Enable blocking websites?
+Language GUI:
+Location.
+Used to load local time via the Internet.
+Save settings
+Websites
+In this list are website addresses that are time-limited performance.
+Add new link
+Remove from list
+Edit schedule
+Save changes
+Setting schedule website
+Check the time frame in which the site will be available for users.
+Data saved successfully!
+Please restart your computer.
+First select the program!
+Domain website (without www.):
+First select the site!
+Settings saved successfully!

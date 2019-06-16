@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Code">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source\Log.cxx">
+      <Filter>Source Code</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Main.cxx">
+      <Filter>Source Code</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\TimeController.cxx">
+      <Filter>Source Code</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\WebService.cxx">
+      <Filter>Source Code</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\WinService.cxx">
+      <Filter>Source Code</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Includes\Common.hpp">
+      <Filter>Source Code</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\DataDumper.hpp">
+      <Filter>Source Code</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\DataTypes.hpp">
+      <Filter>Source Code</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\IService.hpp">
+      <Filter>Source Code</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\Log.hpp">
+      <Filter>Source Code</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\TimeController.hpp">
+      <Filter>Source Code</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\Utils.hpp">
+      <Filter>Source Code</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\WebService.hpp">
+      <Filter>Source Code</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\WinService.hpp">
+      <Filter>Source Code</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

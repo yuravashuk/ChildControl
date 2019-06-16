@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/QSS">
+        <file>QSS/AppStyle.qss</file>
+    </qresource>
+    <qresource prefix="/Img">
+        <file>Images/Apps.jpg</file>
+        <file>Images/Exit.jpg</file>
+        <file>Images/Lock.jpg</file>
+        <file>Images/Settings.jpg</file>
+        <file>Images/Web.jpg</file>
+    </qresource>
+    <qresource prefix="/lang">
+        <file>lang/de.txt</file>
+        <file>lang/en.txt</file>
+        <file>lang/ru.txt</file>
+        <file>lang/ua.txt</file>
+    </qresource>
+</RCC>
